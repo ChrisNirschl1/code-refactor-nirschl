@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Formats the nav bar */
 nav{
     padding-top: 15px;
     margin-right: 20px;
@@ -31,15 +31,14 @@ nav{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Brings list inline */
 nav li{
     list-style-type: none;
-}
-
-nav li{
     display: inline-block;
     margin-left: 25px;
 }
+
+
 
 a {
     color: #ffffff;
@@ -49,7 +48,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Formats main picture */
 .hero {
     height: 800px;
     width: 100%;
@@ -101,7 +100,12 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Format the Content header */
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Format the content sections */
 .content-form{
     margin-bottom: 20px;
     padding: 50px;
@@ -110,16 +114,17 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Format the content images */
 .content-img {
     max-height: 200px;
 }
 
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
+/* Formats footer heder */
+h4 {
+    font-size: 20px;
+}
+/* Format the footer text */
 footer {
     padding: 30px;
     clear: both;
@@ -127,6 +132,3 @@ footer {
     text-align: center;
 }
 
-footer h4 {
-    font-size: 20px;
-}
