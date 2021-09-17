@@ -1,9 +1,9 @@
 # code-refactor-nirschl
+![image](https://user-images.githubusercontent.com/89895612/133736368-216b374f-fa87-4ca9-b37b-dea251868fb8.png)
 
-![image](https://user-images.githubusercontent.com/89895612/133734800-a129ff2f-e450-448e-bb74-476d94c3a74f.png)
+![image](https://user-images.githubusercontent.com/89895612/133736478-ae1da4e6-0ef5-4925-986a-3a970687e1b3.png)
 
-![image](https://user-images.githubusercontent.com/89895612/133735132-31ab6a02-5d95-4036-9b84-0ca1ce48b813.png)
+![image](https://user-images.githubusercontent.com/89895612/133736576-7af9367f-40c6-4c02-b4df-892910265c47.png)
 
-
-![image](https://user-images.githubusercontent.com/89895612/133735215-9f646ce9-4a85-4e3d-8eca-38c58259b248.png)
+Changed the HTML and CSS pages to semantic friendly stying.
 
